@@ -1,4 +1,3 @@
-**************************************Python programming Assingment 5**********************************
 **********************************************README***************************************************
 
 Prerequisite to run Correctly:
@@ -13,7 +12,5 @@ Running the program
 
 
 Note:- 1) As all the commmentary of all the matches is producing in the real time and also the scorecard is computing after every commmentary
-       2) So therefore the RUNNING time COMPLEXITY of this program is very high
-       3) Whole Program will take a running time of approximately 45 min to 60 min. 
 
 
