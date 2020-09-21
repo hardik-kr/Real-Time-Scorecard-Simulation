@@ -1,0 +1,22 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Amla                 c Rohit b Bumrah                 6        9        11       1        0        66.67
+De Kock              not out                          4        11       -        0        0        36.36
+Fafdu Plessis        not out                          4        5        -        1        0        80.00
+
+Extras                                                1 ( b 1 lb 0 w 0 nb 0 )
+Total                                                 15/1 ( 3.6 Overs RR:  4.17 )
+Did not Bat									Tabraiz Shamsi,Vander Dussen, Tabraiz Shamsi,Rabada,Markram,Phehlukwayo,Tahir,Duminy,
+Fall of Wickets : 1-16 (Amla,3.1 ov), 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Bhuvneshwar                                        2.1      0        8        0        3.69     8        1        0        0        0       
+Bumrah                                             2.0      1        6        1        3.00     9        1        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

@@ -1,0 +1,21 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Finch                not out                          16       16       -        0        2        100.00
+Warner               not out                          5        4        -        1        0        125.00
+
+Extras                                                1 ( b 0 lb 0 w 1 nb 0 )
+Total                                                 22/0 ( 3.1 Overs RR:  7.10 )
+Did not Bat									K Richardson,Coulter Nile,Khawaja,Carey,Starc,Maxwell,Shaun Marsh,Pat Cummins,Smith,
+Fall of Wickets : 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Amir                                               2.0      0        3        0        1.50     10       0        0        0        0       
+Shaheen Afridi                                     1.2      0        19       0        14.25     3        1        2        1        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

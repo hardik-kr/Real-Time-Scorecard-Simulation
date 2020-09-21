@@ -1,0 +1,11 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Mohammad Shahzad     b Starc                          0        3        4        0        0        0.00
+Rahmat               not out                          3        3        -        0        0        100.00
+Hazratullah Zazai    not out                          0        1        -        0        0        0.00
+
+Extras                                                1 ( b 0 lb 0 w 0 nb 1 )
+Total                                                 4/1 ( 0.6 Overs RR:  6.67 )
+Did not Bat									Mohammad Nabi,Najibullah,Dawlat Zadran,Rashid Khan,Hamid,Mujeeb,Gulbadin Naib,Shahidi,
+Fall of Wickets : 1-0 (Mohammad Shahzad,0.2 ov), 
+

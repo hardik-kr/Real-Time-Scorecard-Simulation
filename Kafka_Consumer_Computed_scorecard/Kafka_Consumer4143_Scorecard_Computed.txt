@@ -1,0 +1,22 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Roy                  not out                          5        7        -        0        0        71.43
+Bairstow             b Tahir                          0        1        2        0        0        0.00
+Root                 not out                          7        13       -        1        0        53.85
+
+Extras                                                0 ( b 0 lb 0 w 0 nb 0 )
+Total                                                 12/1 ( 3.2 Overs RR:  3.75 )
+Did not Bat									Buttler,Archer,Plunkett,Woakes,Morgan, Adil Rashid, Moeen Ali,Stokes,
+Fall of Wickets : 1-1 (Bairstow,0.1 ov), 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Tahir                                              2.0      0        5        1        2.50     6        0        0        0        0       
+Lungi Ngidi                                        1.3      0        7        0        4.67     5        1        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

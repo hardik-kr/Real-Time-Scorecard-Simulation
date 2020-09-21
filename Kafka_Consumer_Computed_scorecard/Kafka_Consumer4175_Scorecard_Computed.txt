@@ -1,0 +1,21 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Kl Rahul             not out                          4        10       -        0        0        40.00
+Rohit Sharma         not out                          4        14       -        0        0        28.57
+
+Extras                                                1 ( b 0 lb 0 w 1 nb 0 )
+Total                                                 9/0 ( 3.5 Overs RR:  2.57 )
+Did not Bat									Hardik Pandya,Mohammed Shami,Jasprit Bumrah,Kuldeep Yadav,Ms Dhoni,Vijay Shankar,Virat Kohli,Yuzvendra Chahal,Kedar Jadhav,
+Fall of Wickets : 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Cottrell                                           2.0      0        6        0        3.00     9        0        0        1        0       
+Roach                                              2.0      0        3        0        1.50     9        0        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

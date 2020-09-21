@@ -1,0 +1,22 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Kl Rahul             not out                          8        15       -        1        0        53.33
+Rohit Sharma         not out                          9        8        -        0        1        112.50
+
+Extras                                                1 ( b 0 lb 0 w 1 nb 0 )
+Total                                                 18/0 ( 3.4 Overs RR:  5.29 )
+Did not Bat									Rishabh Pant,Hardik Pandya,Mohammed Shami,Ms Dhoni,Virat Kohli, Jasprit Bumrah,Yuzvendra Chahal, Kuldeep Yadav,Kedar Jadhav,
+Fall of Wickets : 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Mortaza                                            1.0      0        10       0        10.00     3        0        1        1        0       
+Saifuddin                                          1.5      0        5        0        2.73     9        1        0        0        0       
+Mustafizur                                         1.0      0        3        0        3.00     3        0        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

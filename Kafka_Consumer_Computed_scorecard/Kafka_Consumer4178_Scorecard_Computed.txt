@@ -1,0 +1,21 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Warner               not out                          6        12       -        1        0        50.00
+Finch                not out                          4        13       -        0        0        30.77
+
+Extras                                                1 ( b 0 lb 1 w 0 nb 0 )
+Total                                                 11/0 ( 3.6 Overs RR:  3.06 )
+Did not Bat									Stoinis,Behrendorff,Khawaja,Carey,Starc,Maxwell,Lyon,Pat Cummins,Smith,
+Fall of Wickets : 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Boult                                              2.1      0        8        0        3.69     9        1        0        0        0       
+Grandhomme                                         2.0      0        2        0        1.00     9        0        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+

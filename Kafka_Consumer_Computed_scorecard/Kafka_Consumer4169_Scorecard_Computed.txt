@@ -1,0 +1,22 @@
+BATSMAN                                               R        B        M        4s       6s       SR      
+
+Kl Rahul             not out                          6        16       -        0        0        37.50
+Rohit Sharma         b Mujeeb                         1        10       60       0        0        10.00
+Virat Kohli          not out                          1        1        -        0        0        100.00
+
+Extras                                                0 ( b 0 lb 0 w 0 nb 0 )
+Total                                                 8/1 ( 4.2 Overs RR:  1.90 )
+Did not Bat									Hardik Pandya,Shankar,Mohammad Shami,Jasprit Bumrah,Kuldeep Yadav,Ms Dhoni,Yuzvendra Chahal,Kedar Jadhav,
+Fall of Wickets : 1-7 (Rohit Sharma,4.1 ov), 
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
+Mujeeb                                             2.3      0        5        1        2.00     9        0        0        0        0       
+Aftab Alam                                         2.0      0        3        0        1.50     10       0        0        0        0       
+
+
+BATSMAN                                                  R        B        M        4s       6s       SR      
+
+
+BOWLER                                             O        M        R        W        ECON     0s       4s       6s       WD       NB      
+
