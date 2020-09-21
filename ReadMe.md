@@ -1,5 +1,3 @@
-**********************************************README***************************************************
-
 Prerequisite to run Correctly:
 1) Download and Install Kafka
 2) Donwload the python module for Kafka Producer and consumer from Python PIP
